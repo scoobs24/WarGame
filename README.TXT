@@ -13,5 +13,5 @@ USER INSTRUCTIONS: Exapnd pop up window until you see the "deal cards" button.
 Player 1 is the top card and Player 2 is the bottom card. 
 The first player to win 13 rounds wins the game
 Execute Player Class
-Powerpoint available on kylemeredith.io
+
 
